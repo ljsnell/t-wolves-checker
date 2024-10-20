@@ -8,4 +8,4 @@ three_pts_made = games.at[0,'FG3M']
 
 print(three_pts_made)
 if(three_pts_made) > 11:
-    print('3 pts made: ' + three_pts_made)
+    print('3 pts made: ' + str(three_pts_made))
